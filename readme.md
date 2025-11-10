@@ -1,0 +1,1 @@
+### create the virtual environment using conda after opening the repo
